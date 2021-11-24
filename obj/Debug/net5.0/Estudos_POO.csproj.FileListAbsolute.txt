@@ -1,0 +1,16 @@
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.exe
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.deps.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.runtimeconfig.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.runtimeconfig.dev.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\ref\Estudos_POO.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\bin\Debug\net5.0\Estudos_POO.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.csproj.AssemblyReference.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.AssemblyInfoInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.AssemblyInfo.cs
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\ref\Estudos_POO.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\obj\Debug\net5.0\Estudos_POO.genruntimeconfig.cache

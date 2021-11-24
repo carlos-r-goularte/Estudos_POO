@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Estudos_POO/1.0.0": {
+        "runtime": {
+          "Estudos_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estudos_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
