@@ -7,31 +7,26 @@ namespace Estudos_POO
         static void Main(string[] args)
         {
             Pessoas p1 = new Pessoas();
-            Pessoas p2 = new Pessoas();
+            Pessoas p3 = new Pessoas();
 
             Console.Write("Digite seu nome: ");
-            p1.Nome = Console.ReadLine();
+            p1.nome = Console.ReadLine();
 
             Console.Write("Digite sua idade: ");
-            p1.Idade = int.Parse(Console.ReadLine());
+            p1.idade = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o nome de seu companheir@: ");
-            p2.Nome = Console.ReadLine();
+            p3.nome = Console.ReadLine();
 
             Console.Write("Digite a idade de seu companheir@: ");
-            p2.Idade = int.Parse(Console.ReadLine());
+            p3.idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Dados da Pessoa1: " + "Nome: " + p1.Nome + "  Idade: " + p1.Idade);
-            Console.WriteLine("Dados da Pessoa2: " + "Nome: " + p2.Nome + "  Idade: " + p2.Idade);
+            Console.WriteLine("Dados da Pessoa1: " + "Nome: " + p1.nome + "  Idade: " + p1.idade);
+            Console.WriteLine("Dados da Pessoa2: " + "Nome: " + p3.nome + "  Idade: " + p3.idade);
 
-            if (p1.Idade < p2.Idade)
-            {
-                Console.WriteLine("Pessoa mais velha: " + p2.Nome);
-            }
-            else
-            {
-                Console.WriteLine("Pessoa mais velha: " + p1.Nome);
-            }
+            p1.maiorIdade(p2.idade);
+
+
         }
     }
 }
