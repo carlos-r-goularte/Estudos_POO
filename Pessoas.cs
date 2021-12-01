@@ -5,7 +5,7 @@ namespace Estudos_POO
     class Pessoas
     {
 
-        public string nome;
+        /*public string nome;
         public int idade;
 
 
@@ -20,7 +20,7 @@ namespace Estudos_POO
             {
                 Console.WriteLine(nome + " é mais nova " + nome2);
             }
-        }
+        }*/
 
     }
 }

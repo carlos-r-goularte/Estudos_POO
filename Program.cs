@@ -4,7 +4,7 @@ namespace Estudos_POO
 {
     class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             Pessoas p1 = new Pessoas();
             Pessoas p3 = new Pessoas();
@@ -25,8 +25,45 @@ namespace Estudos_POO
             Console.WriteLine("Dados da Pessoa2: " + "Nome: " + p3.nome + "  Idade: " + p3.idade);
 
             p1.maiorIdade(p2.idade);
+        }*/
+
+        static void main(string[] args)
+        {
+            Produtos produto = new Produtos();
+
+            Console.WriteLine("Digite o nome do produto: ");
+            produto.nome = Console.ReadLine();
+
+            Console.WriteLine("Digite o valor do produto: ");
+            produto.preco = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite a quantidade em estoque do produto: ");
+            produto.quantidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Produto cadastrado com sucesso!");
 
 
+
+
+            Console.WriteLine("Escolha uma opção: ");
+            Console.WriteLine("1 - adicionar ao estoque");
+            Console.WriteLine("2 - remover do estoque");
+            char opcao = char.Parse(Console.ReadLine());
+
+            switch (opcao)
+            {
+                case '1':
+
+                  
+                break;
+
+                case '2':
+
+                break;
+
+                default
+                    
+            }
         }
     }
 }
