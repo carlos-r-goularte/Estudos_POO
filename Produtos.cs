@@ -4,14 +4,13 @@ namespace Estudos_POO
 {
     class Produtos
     {
-        public string nome;
-        public double preco;
-        public int quantidade;
+        public string Nome;
+        public double Preco;
+        public int Quantidade;
 
         public double ValorTotalEmEstoque()
         {
-
-            return ;
+            return Preco * Quantidade;
         }
         public void AdicionarProdutos()
         {
