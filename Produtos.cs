@@ -21,9 +21,16 @@ namespace Estudos_POO
 
         }
 
-        public override string ToString()
+        public override string ToString() 
         {
-            return Nome + ", R$ " + Preco;
+            return " || "
+                + Nome 
+                + "  ||  Preço: R$" 
+                + Preco 
+                + "  ||  Quantidade:"
+                + Quantidade
+                + "  ||  Valor Total em Estoque:"
+                + ValorTotalEmEstoque();
         }
     }
 }

@@ -37,7 +37,7 @@ namespace Estudos_POO
                         break;
 
                     case "3":
-                        Console.WriteLine("Dados do produto: " + produto.Nome + ", R$ " + produto.Preco + ", Quantidade: " + produto.Quantidade);
+                        Console.WriteLine("Dados do produto: " + produto);
                         break;
 
                     default:
