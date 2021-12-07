@@ -12,24 +12,24 @@ namespace Estudos_POO
         {
             return Preco * Quantidade;
         }
-        public void AdicionarProdutos()
+        public void AdicionarProdutos(int quantidade)
         {
-
+            Quantidade += quantidade;
         }
-        public void RemoverProdutos()
+        public void RemoverProdutos(int quantidade)
         {
-
+            Quantidade -= quantidade;
         }
 
-        public override string ToString() 
+        public override string ToString()
         {
             return " || "
-                + Nome 
-                + "  ||  Preço: R$" 
-                + Preco 
+                + Nome
+                + "  ||  Preço: R$"
+                + Preco
                 + "  ||  Quantidade:"
                 + Quantidade
-                + "  ||  Valor Total em Estoque:"
+                + "  ||  Valor Total em Estoque: R$"
                 + ValorTotalEmEstoque();
         }
     }

@@ -29,11 +29,21 @@ namespace Estudos_POO
                 switch (opcao)
                 {
                     case "1":
-
+                        Console.WriteLine("==================");
+                        Console.WriteLine("Você irá adicionar produtos ao seu estoque!");
+                        Console.WriteLine("==================");
+                        Console.Write("Digite a quantidade de produtos que serão adicionados: ");
+                        int qte = int.Parse(Console.ReadLine());
+                        produto.AdicionarProdutos(qte);
                         break;
 
                     case "2":
-
+                        Console.WriteLine("==================");
+                        Console.WriteLine("Você irá remover produtos ao seu estoque!");
+                        Console.WriteLine("==================");
+                        Console.Write("Digite a quantidade de produtos que serão adicionados: ");
+                        qte = int.Parse(Console.ReadLine());
+                        produto.RemoverProdutos(qte);
                         break;
 
                     case "3":
@@ -70,8 +80,5 @@ namespace Estudos_POO
             return opcao;
 
         }
-
-
-
     }
 }
