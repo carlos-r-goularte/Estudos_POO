@@ -6,6 +6,7 @@ namespace Estudos_POO
     {
         static void Main(string[] args)
         {
+
             Produtos produto = new Produtos();
 
             Console.Write("Digite o nome do produto: ");
@@ -28,15 +29,18 @@ namespace Estudos_POO
                 switch (opcao)
                 {
                     case "1":
-                        Console.WriteLine("Dados do produto: " + produto);
-                        Console.WriteLine();
+
                         break;
 
                     case "2":
+
+                        break;
+
+                    case "3":
+                        Console.WriteLine("Dados do produto: " + produto.Nome + ", R$ " + produto.Preco + ", Quantidade: " + produto.Quantidade);
                         break;
 
                     default:
-
                         break;
                 }
 
@@ -53,14 +57,21 @@ namespace Estudos_POO
             Console.WriteLine("Escolha uma opção: ");
             Console.WriteLine("==================");
 
-            Console.WriteLine("1 - adicionar ao estoque");
-            Console.WriteLine("2 - remover do estoque");
+            Console.WriteLine("1 - Adicionar Produtos ao Estoque");
+            Console.WriteLine("2 - Remover Produtos do Estoque");
+            Console.WriteLine("3 - Visualizar Estoque");
+            Console.WriteLine("X - Sair");
+            Console.WriteLine();
 
             string opcao = Console.ReadLine().ToUpper();
 
             Console.WriteLine();
 
             return opcao;
+
         }
+
+
+
     }
 }

@@ -20,5 +20,10 @@ namespace Estudos_POO
         {
 
         }
+
+        public override string ToString()
+        {
+            return Nome + ", R$ " + Preco;
+        }
     }
 }
