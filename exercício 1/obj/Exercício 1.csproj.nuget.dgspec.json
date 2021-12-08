@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1\\Exercício 1.csproj": {}
+    "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1\\Exercício 1.csproj": {
+    "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1\\Exercício 1.csproj",
+        "projectUniqueName": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1.csproj",
         "projectName": "Exercício 1",
-        "projectPath": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1\\Exercício 1.csproj",
+        "projectPath": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\Exercício 1\\obj\\",
+        "outputPath": "D:\\Programação\\Projetos - C#\\Estudos_POO\\Estudos_POO\\exercício 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

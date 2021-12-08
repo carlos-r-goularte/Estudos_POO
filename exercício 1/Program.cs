@@ -6,7 +6,16 @@ namespace Exercício_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Retangulo retangulo = new Retangulo();
+
+            Console.WriteLine("Entre com a largura e altura do retângulo: ");
+
+            retangulo.Altura = double.Parse(Console.ReadLine());
+            retangulo.Largura = double.Parse(Console.ReadLine());
+
+
+            Console.WriteLine(retangulo);
+                        
         }
     }
 }
