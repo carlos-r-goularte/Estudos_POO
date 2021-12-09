@@ -1,0 +1,16 @@
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.exe
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.deps.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.runtimeconfig.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.runtimeconfig.dev.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\ref\TestesMembrosEstaticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\bin\Debug\net5.0\TestesMembrosEstaticos.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.csproj.AssemblyReference.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.AssemblyInfoInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.AssemblyInfo.cs
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\ref\TestesMembrosEstaticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\TestesMembrosEstaticos\obj\Debug\net5.0\TestesMembrosEstaticos.genruntimeconfig.cache
