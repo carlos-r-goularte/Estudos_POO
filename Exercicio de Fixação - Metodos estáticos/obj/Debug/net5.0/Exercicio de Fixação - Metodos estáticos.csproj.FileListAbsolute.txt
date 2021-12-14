@@ -1,0 +1,16 @@
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.exe
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.deps.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.runtimeconfig.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.runtimeconfig.dev.json
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\ref\Exercicio de Fixação - Metodos estáticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\bin\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.csproj.AssemblyReference.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.AssemblyInfoInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.AssemblyInfo.cs
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\ref\Exercicio de Fixação - Metodos estáticos.dll
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.pdb
+D:\Programação\Projetos - C#\Estudos_POO\Estudos_POO\Exercicio de Fixação - Metodos estáticos\obj\Debug\net5.0\Exercicio de Fixação - Metodos estáticos.genruntimeconfig.cache

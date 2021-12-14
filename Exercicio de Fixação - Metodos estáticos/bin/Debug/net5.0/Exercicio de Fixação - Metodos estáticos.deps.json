@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio de Fixação - Metodos estáticos/1.0.0": {
+        "runtime": {
+          "Exercicio de Fixação - Metodos estáticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio de Fixação - Metodos estáticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

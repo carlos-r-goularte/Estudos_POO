@@ -24,7 +24,6 @@ namespace Exercício2
             funcionario.AumentarSalario(porcentagem);
 
             Console.WriteLine(funcionario);
-    
 
         }
     }
