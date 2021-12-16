@@ -12,22 +12,15 @@ namespace Construtores
         public double Preco;
         public int Quantidade;
 
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string Nome, double Preco, int Quantidade)
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-        }
-
-        public Produto(string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 5;
+            this.Nome = Nome;
+            this.Preco = Preco;
+            this.Quantidade = Quantidade;
         }
 
         public double ValorTotalEmEstoque()
-        {
+        {   
             return Preco * Quantidade;
         }
         public void AdicionarProdutos(int quantidade)
