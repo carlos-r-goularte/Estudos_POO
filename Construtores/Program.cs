@@ -6,7 +6,6 @@ namespace Construtores
     {
         static void Main(string[] args)
         {
-
             Console.Write("Digite o nome do produto: ");
             string nome = Console.ReadLine();
 
@@ -33,6 +32,8 @@ namespace Construtores
                         Console.WriteLine("==================");
                         Console.WriteLine("Você irá adicionar produtos ao seu estoque!");
                         Console.WriteLine("==================");
+                        Console.WriteLine();
+                        Console.WriteLine();
                         Console.Write("Digite a quantidade de produtos que serão adicionados: ");
                         int qte = int.Parse(Console.ReadLine());
                         produto.AdicionarProdutos(qte);
@@ -43,6 +44,8 @@ namespace Construtores
                         Console.WriteLine("==================");
                         Console.WriteLine("Você irá remover produtos ao seu estoque!");
                         Console.WriteLine("==================");
+                        Console.WriteLine();
+                        Console.WriteLine();
                         Console.Write("Digite a quantidade de produtos que serão adicionados: ");
                         qte = int.Parse(Console.ReadLine());
                         produto.RemoverProdutos(qte);
@@ -68,7 +71,8 @@ namespace Construtores
 
         private static string Menu()
         {
-
+            Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("==================");
             Console.WriteLine("Escolha uma opção: ");
             Console.WriteLine("==================");
@@ -77,6 +81,7 @@ namespace Construtores
             Console.WriteLine("2 - Remover Produtos do Estoque");
             Console.WriteLine("3 - Visualizar Estoque");
             Console.WriteLine("X - Sair");
+            Console.WriteLine();
             Console.WriteLine();
 
             string opcao = Console.ReadLine().ToUpper();

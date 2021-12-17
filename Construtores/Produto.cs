@@ -1,43 +1,58 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Construtores
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
 
-        public Produto(string Nome, double Preco, int Quantidade)
+        public Produto(string nome, double preco, int quantidade)
         {
-            this.Nome = Nome;
-            this.Preco = Preco;
-            this.Quantidade = Quantidade;
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
         }
 
+        public string GetNome()
+        {
+            return _nome;
+        }
+        public double GetPreco()
+        {
+            return _preco;
+        }
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+        public void SetNome(string nome)
+        {
+            if(nome != null && nome.Length > 2)
+            {
+                _nome = nome;
+            }         
+        }
         public double ValorTotalEmEstoque()
-        {   
-            return Preco * Quantidade;
+        {
+            return _preco * _quantidade;
         }
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade += quantidade;
+            _quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade)
         {
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
         public override string ToString()
         {
-            return Nome
+            return _nome
                 + ", $"
-                + Preco.ToString("F2")
+                + _preco.ToString("F2")
                 + ", "
-                + Quantidade
+                + _quantidade
                 + " unidade, Total: $"
                 + ValorTotalEmEstoque().ToString("F2");
         }
