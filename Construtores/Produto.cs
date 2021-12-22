@@ -15,25 +15,41 @@ namespace Construtores
             _quantidade = quantidade;
         }
 
-        public string GetNome()
+        public string Nome
         {
-            return _nome;
-        }
-        public double GetPreco()
-        {
-            return _preco;
-        }
-        public int GetQuantidade()
-        {
-            return _quantidade;
-        }
-        public void SetNome(string nome)
-        {
-            if(nome != null && nome.Length > 2)
+            get { return _nome;}
+            set 
             {
-                _nome = nome;
-            }         
+                if (value != null && value.Length > 2)
+                {
+                    _nome = value;
+                }
+            }
         }
+
+        public double Preco
+        {
+            get { return _preco; }
+            set
+            {
+                if (value > 0)
+                {
+                    _preco = value;
+                }
+            }
+        }
+        public int Quantidade
+        {
+            get { return _quantidade; }
+            set
+            {
+                if (value > 0)
+                {
+                    _quantidade = value;
+                }
+            }
+        }
+       
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
