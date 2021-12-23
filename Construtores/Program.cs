@@ -15,7 +15,7 @@ namespace Construtores
             Console.Write("Digite a quantidade em estoque do produto: ");
             int quantidade = int.Parse(Console.ReadLine());
 
-            Produto produto = new Produto(nome, preco, quantidade);
+            Produto produto = new Produto(nome,preco,quantidade);
 
             Console.WriteLine();
             Console.WriteLine("Produto cadastrado com sucesso!");
