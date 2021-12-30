@@ -1,0 +1,16 @@
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.exe
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.deps.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.runtimeconfig.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.runtimeconfig.dev.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\ref\Exercicio Final.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\bin\Debug\net5.0\Exercicio Final.pdb
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.AssemblyInfoInputs.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.AssemblyInfo.cs
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\ref\Exercicio Final.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.pdb
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_POO\Exercicio Final\obj\Debug\net5.0\Exercicio Final.genruntimeconfig.cache
