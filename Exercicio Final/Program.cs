@@ -50,12 +50,24 @@ namespace Exercicio_Final
                 switch (escolhaUsuario)
                 {
                     case '1':
+                        Console.WriteLine();
                         Console.WriteLine(conta);
+                        Console.WriteLine();
                         break;
-                    case '2':
 
+                    case '2':
+                        Console.WriteLine();
+                        Console.Write("Entre com o valor de depósito: ");
+                        double quantiaDeposito = double.Parse(Console.ReadLine());
+                        conta.deposito(quantiaDeposito);
                         break;
+
                     case '3':
+                        Console.WriteLine();
+                        Console.WriteLine("*É cobrado uma taxa de R$5,00 por saque!");
+                        Console.Write("Entre com o valor de saque: ");
+                        double quantiaSaque = double.Parse(Console.ReadLine());
+                        conta.saque(quantiaSaque);
                         break;
 
                     default:
@@ -82,6 +94,7 @@ namespace Exercicio_Final
                 Console.WriteLine("3 - Sacar valor da Conta");
                 Console.WriteLine("X - Sair");
                 char escolha = char.Parse(Console.ReadLine().ToUpper());
+                Console.WriteLine();
 
                 return escolha;
             }

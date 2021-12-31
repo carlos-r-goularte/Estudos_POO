@@ -16,13 +16,13 @@ namespace Exercicio_Final
         {
             ValorConta = valor;
         }
-        private void deposito(double quantia)
+        public void deposito(double quantia)
         {
-            
+            ValorConta += quantia;
         }
-        private void saque(double quantia)
+        public void saque(double quantia)
         {
-
+            ValorConta -= quantia + 5.0;
         }
         public override string ToString()
         {
