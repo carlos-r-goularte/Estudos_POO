@@ -8,9 +8,9 @@ namespace Exercicio_Final
         {
             Conta conta;
 
-            Console.WriteLine("--------------------------");
+            Console.WriteLine("-------------------");
             Console.WriteLine("Bem vindo ao Banco!");
-            Console.WriteLine("--------------------------");
+            Console.WriteLine("-------------------");
 
             Console.Write("Entre com o Número da sua conta: ");
             int numero = int.Parse(Console.ReadLine());
@@ -45,6 +45,42 @@ namespace Exercicio_Final
                 Console.WriteLine("É necessário escolher uma opcao correta (s/n)");
                 Console.WriteLine();
                 goto digitaropcao;
+            }
+
+
+            static void acoesUsuario()
+            {
+                char escolhaUsuario = Menu();
+
+                while (escolhaUsuario != 'X')
+                {
+                    switch (escolhaUsuario)
+                    {
+                        case '1':
+
+                            break;
+                        case '2':
+
+                            break;
+                        default:
+                            throw new ArgumentOutOfRangeException();
+                    }
+                }
+            }
+
+            static char Menu()
+            {
+                Console.WriteLine("------------------");
+                Console.WriteLine("Escolha uma opção!");
+                Console.WriteLine("------------------");
+
+                Console.WriteLine("1 - Ver Conta");
+                Console.WriteLine("2 - Depositar valor na Conta");
+                Console.WriteLine("3 - Sacar valor da Conta");
+                Console.WriteLine("X - Sair");
+                char escolha = char.Parse(Console.ReadLine().ToUpper());
+
+                return escolha;
             }
         }
     }
