@@ -28,11 +28,11 @@ namespace Exercicio_Final
 
         public override string ToString()
         {
-            return " Nome do Títular da conta: "
+            return "Nome do Títular da conta: "
             + TitularConta
-            + "||  Número da conta: "
+            + "  ||  Número da conta: "
             + NumeroConta
-            + "||  Valor atual: R$"
+            + "  ||  Valor atual: R$"
             + ValorConta.ToString("F2");
         }
     }
