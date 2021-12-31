@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb0bf204-d84e-48f9-bc9e-0672bc489468": {
+      "ProjectGuid": "bb0bf204-d84e-48f9-bc9e-0672bc489468",
+      "DisplayName": "Exercicio Final",
+      "ColorIndex": 0
+    },
+    "ef4e6486-dd30-4e18-a313-76a4386ec820": {
+      "ProjectGuid": "ef4e6486-dd30-4e18-a313-76a4386ec820",
+      "DisplayName": "Exercicio Final",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
