@@ -16,16 +16,14 @@ namespace Exercicio_Final
         {
             ValorConta = valor;
         }
-
         private void deposito(double quantia)
         {
-
+            
         }
         private void saque(double quantia)
         {
 
         }
-
         public override string ToString()
         {
             return "Nome do Títular da conta: "

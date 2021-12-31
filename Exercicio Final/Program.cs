@@ -26,8 +26,6 @@ namespace Exercicio_Final
             {
                 conta = new Conta(titular, numero);
 
-                Console.WriteLine();
-                Console.WriteLine(conta);
             }
             else if (opcao == 's')
             {
@@ -36,8 +34,6 @@ namespace Exercicio_Final
                 double valor = double.Parse(Console.ReadLine());
 
                 conta = new Conta(titular, numero, valor);
-
-                Console.WriteLine(conta);
             }
             else
             {
@@ -47,26 +43,33 @@ namespace Exercicio_Final
                 goto digitaropcao;
             }
 
+            char escolhaUsuario = Menu();
 
-            static void acoesUsuario()
+            while (escolhaUsuario != 'X')
             {
-                char escolhaUsuario = Menu();
-
-                while (escolhaUsuario != 'X')
+                switch (escolhaUsuario)
                 {
-                    switch (escolhaUsuario)
-                    {
-                        case '1':
+                    case '1':
+                        Console.WriteLine(conta);
+                        break;
+                    case '2':
 
-                            break;
-                        case '2':
+                        break;
+                    case '3':
+                        break;
 
-                            break;
-                        default:
-                            throw new ArgumentOutOfRangeException();
-                    }
+                    default:
+                        Console.WriteLine("Digite uma opção válida!");
+                        break;
                 }
+                escolhaUsuario = Menu();
             }
+
+            Console.WriteLine();
+            Console.WriteLine("---------");
+            Console.WriteLine("Até mais!");
+            Console.WriteLine("---------");
+            Console.WriteLine();
 
             static char Menu()
             {
